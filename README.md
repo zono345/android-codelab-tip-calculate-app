@@ -23,5 +23,4 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-polished-us
 <img src="https://user-images.githubusercontent.com/88254716/197418683-72dd169b-37a6-4b65-baab-340f12b95e35.png" width="600">
   
 ### GIF ###  
-<img src="https://user-images.githubusercontent.com/88254716/197418930-9f2296b4-6eb5-444f-a5db-3308d6eb3be3.gif" width="300">
-
+<img src="https://user-images.githubusercontent.com/88254716/197419107-5b2a9f92-f956-45a7-8102-d5ee10152005.gif" width="300">
