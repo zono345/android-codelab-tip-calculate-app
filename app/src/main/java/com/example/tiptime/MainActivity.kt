@@ -3,6 +3,7 @@ package com.example.tiptime
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.KeyEvent
 import android.view.View
 import android.view.inputmethod.InputMethodManager
@@ -10,6 +11,7 @@ import com.example.tiptime.databinding.ActivityMainBinding
 import java.text.NumberFormat
 
 class MainActivity : AppCompatActivity() {
+    private val TAG = "MainActivity_Log"
 
     private lateinit var binding: ActivityMainBinding
 
@@ -39,6 +41,7 @@ class MainActivity : AppCompatActivity() {
         if (binding.roundUpSwitch.isChecked) {
            tip = kotlin.math.ceil(tip)
         }
+        Log.d(TAG, "tip: $tip")
         displayTip(tip)
     }
 
