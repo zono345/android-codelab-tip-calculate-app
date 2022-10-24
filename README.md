@@ -15,8 +15,11 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-
   
 ### より洗練されたユーザー エクスペリエンスを作成する ###  
 https://developer.android.com/codelabs/basic-android-kotlin-training-polished-user-experience?hl=ja
-
-
+  
+### インストルメンテーション テストを作成する ###  
+https://developer.android.com/codelabs/android-basics-kotlin-write-instrumentation-tests?hl=ja
+  
+  
 アプリ画面
 ----  
 ### 静止画 ###  
